@@ -90,7 +90,7 @@ Wisconsin-Madison.</license.copyrightOwners>
 
 		<scijava.jvm.build.version>11</scijava.jvm.build.version>
 		<scijava.jvm.version>11</scijava.jvm.version>
-		<javafx.version>11-ea+25</javafx.version>
+		<javafx.version>11.0.2</javafx.version>
 		<javafx-controls.version>${javafx.version}</javafx-controls.version>
 	</properties>
 
