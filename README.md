@@ -1,4 +1,4 @@
-[![](https://travis-ci.com/scijava/scijava-ui-javafx.svg?branch=master)](https://travis-ci.com/scijava/scijava-ui-javafx)
+[![](https://github.com/scijava/scijava-ui-javafx/actions/workflows/build-main.yml/badge.svg)](https://github.com/scijava/scijava-ui-javafx/actions/workflows/build-main.yml)
 
 SciJava JavaFX UI components
 ----------------------------

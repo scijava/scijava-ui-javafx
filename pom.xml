@@ -74,8 +74,8 @@
 		<url>http://github.com/scijava/scijava-ui-javafx/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Travis CI</system>
-		<url>https://travis-ci.com/scijava/scijava-ui-javafx</url>
+		<system>GitHub Actions</system>
+		<url>https://github.com/scijava/scijava-ui-javafx/actions</url>
 	</ciManagement>
 
 	<properties>
@@ -86,7 +86,7 @@ Wisconsin-Madison.</license.copyrightOwners>
 		<license.projectName>SciJava UI components for JavaFX.</license.projectName>
 
 		<!-- NB: Deploy releases to the SciJava Maven repository. -->
-		<releaseProfiles>deploy-to-scijava</releaseProfiles>
+		<releaseProfiles>sign,deploy-to-scijava</releaseProfiles>
 
 		<scijava.jvm.build.version>11</scijava.jvm.build.version>
 		<scijava.jvm.version>11</scijava.jvm.version>
